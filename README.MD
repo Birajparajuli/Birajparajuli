@@ -62,7 +62,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Birajparajuli&show_icons=true&hide_border=true" />
 
 [website]: https://birajparajuli.com.np
 [youtube]:https://www.youtube.com/channel/UCwWMqNxOjl2GyGZ7YeEoYvw?view_as=subscriber
