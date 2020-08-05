@@ -1,11 +1,9 @@
-### Hi there, I'm Biraj - aka [codeSTACKr][website] 👋
+### Hi there, I'm Biraj 👋
 
 ## I'm a IT Student !
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Do more coding 😉
+- ⚡ Fun fact: I love graphics design and motion graphics.
 
 ### Connect with me:
 
