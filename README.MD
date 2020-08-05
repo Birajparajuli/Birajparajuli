@@ -16,9 +16,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=Vi7udAte&id=F8412FD780FEA039BC123FE7D3CE41EE779BBE69&thid=OIP.Vi7udAtecrH1FgV0UyY2DgHaHa&mediaurl=https%3a%2f%2fksp.himaforka-uajy.org%2fimages%2fc.png&exph=1600&expw=1600&q=C+icon&simid=608032502856091782&ck=73A51A25E3130E2C889FA68E3663464C&selectedIndex=13&FORM=IRPRST" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="Python" width="26px" src="<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Python" width="26px" src="<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />" />
 
