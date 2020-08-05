@@ -39,7 +39,7 @@
 
 
 --Projects--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Birajparajuli&repo=github-readme-stats)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Birajparajuli&repo=github-readme-stats)](https://github.com/Birajparajuli/github-readme-stats)
 ---
 
 ### 📺 Latest YouTube Videos
