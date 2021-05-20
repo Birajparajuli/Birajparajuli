@@ -1,6 +1,6 @@
 ### Hi there, I'm Biraj 👋
 
-## I'm a IT Student !
+## I'm an IT Student !
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Do more coding 😉
 - ⚡ Fun fact: I love graphics design and motion graphics.
