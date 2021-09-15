@@ -1,7 +1,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Birajparajuli">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Birajparajuli?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Birajparajuli?tab=followers"><img src="https://img.shields.io/github/followers/Birajparajuli?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biraj</h1>
@@ -37,7 +37,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/Birajparajuli">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biraj Parajuli's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Birajparajuli&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
